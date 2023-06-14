@@ -4,8 +4,11 @@
 HORNET: Holistic RNA Structure Determination by Unsupervised Learning and Deep Neural Networks. HORNET is a software package for determining 3D topological structures of RNA conformers using atomic force microscopy topographic images and deep learning. Overall, the computation using HORNET consists of 4 steps:
 
 1 - Running a Dynamic Fitting calculation based on AFM topography biasing potential
+
 2 - Transforming the output of the dynamic fitting into inputs for UML/DNN analysis
+
 3 - Unsupervised Learning Cohort Selection
+
 4 - Supervised Neural Network RMSD Prediction
 
 ## Step 1 - Dynamic Fitting
